@@ -1,16 +1,28 @@
-### Hi there 👋
+<div>
+  <img width="220" align="left" 
+       src="https://pbs.twimg.com/profile_images/1420861156156231684/MratLgXD_400x400.png"/>
+  <br>
+  <h1>Hello there! 👋</h1>
+  <p>
+    👉 My name is Nícolas, and I'm a software engineering student at the University of Brasilia. Take a look at the projects I participated in! nice to meet you! 
+  </p>
+  </br>
+</div>
 
-<!--
-**Nicolas-Roberto/Nicolas-Roberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 About Me
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Language-Python-01CDAA)   ![](https://img.shields.io/badge/Language-C++-98EDF0)
+![](https://img.shields.io/badge/Language-JS-FDE6BC)     ![](https://img.shields.io/badge/OS-Windows-DE5BB9)   ![](https://img.shields.io/badge/OS-Debian-9885E1)      ![](https://img.shields.io/badge/Back-End-Github-FFE4D9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Roberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Roberto&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+</div>
+
+<p>
+  I am currently deepening my knowledge of Data Science and Artificial Intelligence in Python and C++.
+</p>
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nicolas-Roberto/Nicolas-Roberto/main/github-metrics.svg" />
+</p>
