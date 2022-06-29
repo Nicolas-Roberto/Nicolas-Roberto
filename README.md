@@ -14,14 +14,14 @@
 ![](https://img.shields.io/badge/Language-Python-01CDAA)   ![](https://img.shields.io/badge/Language-C++-98EDF0)
 ![](https://img.shields.io/badge/Language-JS-FDE6BC)     ![](https://img.shields.io/badge/OS-Windows-DE5BB9)   ![](https://img.shields.io/badge/OS-Debian-9885E1)      ![](https://img.shields.io/badge/Back-End-Github-FFE4D9)
 
+<p>
+  I am currently deepening my knowledge of Data Science and Artificial Intelligence in Python and C++.
+</p>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Roberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Roberto&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 </div>
-
-<p>
-  I am currently deepening my knowledge of Data Science and Artificial Intelligence in Python and C++.
-</p>
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nicolas-Roberto/Nicolas-Roberto/main/github-metrics.svg" />
