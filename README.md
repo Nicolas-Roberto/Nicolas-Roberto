@@ -6,8 +6,8 @@
   <p>
     👉 My name is Nícolas, and I'm a software engineering student at the University of Brasilia. Take a look at the projects I participated in! nice to meet you! 
   </p>
-  </br>
 </div>
+</br>
 
 ## 🤝 About Me
 
