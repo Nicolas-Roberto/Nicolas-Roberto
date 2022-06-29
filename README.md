@@ -26,6 +26,3 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
   
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nicolas-Roberto/Nicolas-Roberto/main/github-metrics.svg" />
-</p>
