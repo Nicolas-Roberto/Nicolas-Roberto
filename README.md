@@ -12,7 +12,7 @@
 ## 🤝 About Me
 
 ![](https://img.shields.io/badge/Language-Python-01CDAA)   ![](https://img.shields.io/badge/Language-C++-98EDF0)
-![](https://img.shields.io/badge/Language-JS-FDE6BC)     ![](https://img.shields.io/badge/OS-Windows-DE5BB9)   ![](https://img.shields.io/badge/OS-Ubunto-9885E1)      ![](https://img.shields.io/badge/Back-End-Github-FFE4D9)
+![](https://img.shields.io/badge/Language-JS-FDE6BC)     ![](https://img.shields.io/badge/OS-Windows-DE5BB9)   ![](https://img.shields.io/badge/OS-Ubuntu-9885E1)      ![](https://img.shields.io/badge/Back-End-Github-FFE4D9)
 
 <p>
   I am currently deepening my knowledge of Data Science and Artificial Intelligence in Python and C++.
