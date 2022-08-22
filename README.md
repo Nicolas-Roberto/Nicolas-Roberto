@@ -1,6 +1,6 @@
 <div>
   <img width="220" align="left" 
-       src="https://github.com/Nicolas-Roberto/Nicolas-Roberto/blob/main/imgs/Mari-DC.png"/>
+       src="https://static.wikia.nocookie.net/grandchase/images/9/90/Biblia-02.png/revision/latest?cb=20120302162920&path-prefix=pt-br"/>
   <br>
   <h1>Hello there! 👋</h1>
   <p>
